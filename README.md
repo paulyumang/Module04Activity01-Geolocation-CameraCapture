@@ -6,10 +6,10 @@ This repository contains the solution for Module04 Exercise01. Below are the det
 Here are the screenshots of the application:
 
 ### Screenshot 1:
-![Screenshot 1](./Screenshot/SS%20%231.png)
+![Screenshot 1](./Screenshot/SS%20%231.jpg)
 
 ### Screenshot 2:
-![Screenshot 2](./Screenshot/SS%20%232.png)
+![Screenshot 2](./Screenshot/SS%20%232.jpg)
 
 ## Student Information
 
